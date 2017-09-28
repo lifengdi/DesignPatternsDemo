@@ -10,5 +10,5 @@ Java设计模式
 ## 建造者模式
 位于com.lifengdi.builder目录下。
 
-## 原型模式
+## 原型模式 
 位于com.lifengdi.prototype目录下。
